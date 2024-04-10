@@ -1,0 +1,10 @@
+{  
+  "SSID": "EE-Hub-6Rro",  
+  "WifiPW": "njc1337.",  
+  "PoolUrl": "public-pool.io",  
+  "PoolPort": 21496,
+  "PoolPassword": "x",
+  "BtcWallet": "1JNXnSma3WwDPFiGhEZRu1rhqsgmr1r9id",  
+  "Timezone": 1,  
+  "SaveStats": true  
+}
